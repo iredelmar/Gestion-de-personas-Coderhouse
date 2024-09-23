@@ -1,0 +1,8 @@
+id_colaborador;nombres_colaborador;apellidos_colaborador;fecha_de_nacimiento;sexo;fecha_ingreso;email_colaborador;direccion_colaborador;telefono_colaborador;codigo_cargo;id_jefatura;sucursal;id_estructura;nivel_jerarquico;tipo_contrato;plazo_contrato;modalidad_jornada;nivel_academico;cant_hijos;estado_civil
+28.799.585-3;Carol Brian;Sanders Patterson;1969-09-16;F;2023-02-16;carol.sanders@hotmail.com;31050 Howard Radial;1729976;203;87.248.145-K;Sucursal D;9;AREA;INDEFINIDO;0;PRESENCIAL;UNIVERSITARIO;1;CASADO/A
+08.757.685-1;Traci Bryan;Martinez Holt;1974-03-06;F;2017-07-07;traci.martinez@yahoo.com;551 Silva Flats;566801624;208;54.874.949-5;Sucursal E;10;AREA;PLAZO_FIJO;6;TELETRABAJO_PARCIAL;UNIVERSITARIO;4;CASADO/A
+34.822.544-1;Ronald John;Davis Reed;1998-08-21;F;2015-10-02;ronald.davis@yahoo.com;6904 Betty Inlet;220280393;450;99.504.903-6;Sucursal C;11;SUBGERENCIA;INDEFINIDO;1;PRESENCIAL;UNIVERSITARIO;3;SOLTERO/A
+56.250.816-9;Ryan Bryan;Wilkerson Dunn;1986-04-03;M;2021-05-30;ryan.wilkerson@gmail.com;590 Paul Street;843249495;256;22.644.379-8;Sucursal A;12;AREA;PLAZO_FIJO;7;PRESENCIAL;UNIVERSITARIO;2;CASADO/A
+46.327.804-7;Cathy Katherine;Cannon Woodard;1974-04-29;F;2020-09-18;cathy.cannon@hotmail.com;4406 Wells Track Apt. 491;589432533;105;84.357.767-9;Sucursal A;13;AREA;PLAZO_FIJO;8;TELETRABAJO_TOTAL;TECNICO;0;SOLTERO/A
+44.617.189-3;Harry James;Gill Hernandez;1971-11-27;M;2021-08-16;harry.gill@yahoo.com;43225 Padilla Viaduct;68921803;189;10.078.815-9;Sucursal B;14;AREA;INDEFINIDO;0;TELETRABAJO_TOTAL;UNIVERSITARIO;0;SOLTERO/A
+29.896.096-5;Kathryn Trevor;Ingram Farmer;1994-07-31;F;2021-10-06;kathryn.ingram@hotmail.com;89887 Wong Vista Apt. 534;541852881;196;87.903.836-6;Sucursal A;15;AREA;INDEFINIDO;6;TELETRABAJO_PARCIAL;UNIVERSITARIO;1;SOLTERO/A

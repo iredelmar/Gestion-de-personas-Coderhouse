@@ -1,0 +1,8 @@
+codigo_cargo;cargo;id_estructura;rol;familia_cargo;nivel_cargo;personas_a_cargo;cargo_comercial;region_comercial
+203;Analista Aseguramiento Calidad TI;9;PRIVADO;PROFESIONALES;14;NO;NO;NULL
+208;Jefe(a) de Canales Digitales;10;PRIVADO;JEFATURA;15;SI;NO;NULL
+450;Subgerente(a) de Innovación;11;EJECUTIVO;EJECUTIVO;17;SI;NO;NULL
+256;Analista de Proveedores, Procesos y Contratos;12;PRIVADO;PROFESIONALES;14;NO;NO;NULL
+105;Administrativo de Recaudacion;13;GENERAL;ADMINISTRATIVO;9;NO;NO;NULL
+189;Especialista Estudios de Riesgo;14;PRIVADO;PROFESIONALES;14;NO;NO;NULL
+196;Analista Comercial Senior;15;PRIVADO;PROFESIONALES;16;NO;NO;NULL

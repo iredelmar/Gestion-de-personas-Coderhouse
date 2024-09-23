@@ -1,0 +1,8 @@
+id_estructura;id_area;area;id_subgerencia;subgerencia;id_gerencia;gerencia;id_filial;filial
+9;7;Aseguramiento_de_Calidad_TI;10;Subgerencia de Transformación Digital;4;Gerencia de Operaciones y Tecnología;2;C
+10;12;Canales Digitales;11;Subgerencia de Canales Digitales y Servicio Empresa;5;Gerencia Empresas y Trabajadores;2;A
+11;14;Innovacion;10;Subgerencia deTransformación Digital;6;Gerencia de Operaciones y Tecnología;1;A
+12;6;Proveedores y Procesos;23;Subgerencia de Compras;2;Administracion;2;C
+13;9;Recaudacion;12;Subgerencia de Operaciones Financieras;6;Gerencia de Operaciones y Tecnología;1;A
+14;11;Modelos de Riesgo;15;Subgerencia Riesgo Crédito y Financiero;7;Gerencia de Riesgo;3;C
+15;17;Gestion Comercial;16;Subgerencia Gestión Comercial;1;Red Comercial;2;A

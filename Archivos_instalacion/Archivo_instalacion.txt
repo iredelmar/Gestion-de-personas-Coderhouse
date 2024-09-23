@@ -1,0 +1,13 @@
+Para instalar la base de datos para la Gestion de Personas seguir los pasos a continuación:
+
+1. Abrir "01_GestionPersonasLoaiza" y ejecutar
+2. Abrir "02_Creacion_Views_Loaiza" y ejecutar
+3. Abrir "03_Creacion_Funciones_Loaiza" y ejecutar
+5. Abrir "04_Creacion_triggers_Loaiza" y ejecutar
+6. Abrir "05_Creacion_SP_Loaiza" y ejecutar
+7. Abrir "06_Creacion_usuarios" y ejecutar
+8. Abrir "07_Transacciones" y ejecutar
+
+Se realizaron inserciones masivas luego de la creación del esquema y las tablas, a través de archivos csv, los cuales se encuentran en la carpeta: "Nuevas_inserciones"
+
+En caso de perder información, se tiene disponible el archivo de Backup, nombrado "08_BackupLoaiza", abrir y ejecutar
